@@ -46,7 +46,7 @@ Develop and implement a system for coordinated, synchronized exploration using t
     <td><b>Gazebo Simulation World</b></td>
   </tr>
   <tr>
-    <td><img src="images/SLAM_plus_Nav.png" width="400"/></td>
+    <td><img src="images/SLAM plus Nav.png" width="400"/></td>
     <td><img src="images/Nav_pic_2.png" width="400"/></td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ Develop and implement a system for coordinated, synchronized exploration using t
     <td><b>Robot POV in Gazebo</b></td>
   </tr>
   <tr>
-    <td><img src="images/Path_planning.png" width="400"/></td>
+    <td><img src="images/Path planning.png" width="400"/></td>
     <td><img src="images/Nav_pic_1.png" width="400"/></td>
   </tr>
 </table>
@@ -70,8 +70,8 @@ Develop and implement a system for coordinated, synchronized exploration using t
     <td><b>Costmap & DWA Planner Detail</b></td>
   </tr>
   <tr>
-    <td><img src="images/Combined_view.png" width="400"/></td>
-    <td><img src="images/Project_overview_shot.png" width="400"/></td>
+    <td><img src="images/Combined view.png" width="400"/></td>
+    <td><img src="images/Project overview shot.png" width="400"/></td>
   </tr>
 </table>
 
